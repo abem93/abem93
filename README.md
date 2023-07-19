@@ -5,7 +5,7 @@ Full-Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in Springfield, MO
-* ✉️  You can contact me at [aimejia4@gmail.com](mailto:aimejia4@gmail.com)
+* ✉️  You can contact me at [contact@abrahammejia.com](mailto:contact@abrahammejia.com)
 
 <a href="https://www.twitter.com/TheAiMejia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TheAiMejia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
